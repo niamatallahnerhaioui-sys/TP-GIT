@@ -1,0 +1,10 @@
+const name = "Ceasr";
+
+
+
+
+for(i=0;i<10;i++){
+	console.log(`My number is :${i+1} + ${name}`);
+}
+
+
